@@ -1,15 +1,41 @@
-I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
 
-### 🏗️ Current Stack 
-* **Languages:** JavaScript, TypeScript, Python, C++
-* **Frontend:** React, Next.js, HTML/CSS
-* **Backend:** Node.js, Express
-* **Database & ORM** PostgreSQL, MongoDB, Prisma, Drizzle, Upstash-Redis
+<h1 align="center">Hi 👋, I'm Rushikesh</h1>
 
-### 🟢 Current Status
-* _**Available for work**_
-* **Current Project:** Pick'em : Realtime Voting System
-* **Learning:** System Design
+<h3 align="center">Aspiring Software Developer | Tech Enthusiast 🚀</h3>
+
+<p align="center">
+  Building projects, learning new technologies, and solving problems.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning software development
+- 💻 Interested in building real-world applications
+- 🚀 Exploring new technologies
+- 🎯 Working towards becoming a skilled developer
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+</p>
+
+### 📊 Current Status
+
+- 🔭 Working on personal projects
+- 🌱 Improving my programming skills
+- 📚 Learning and exploring new technologies
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Rsulakhe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 
 [Connect with Me](https://www.linkedin.com/in/rishikesh-sulakhe-135865157/)  
