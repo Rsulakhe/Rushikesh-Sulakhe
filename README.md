@@ -1,6 +1,7 @@
 I’m a Full-Stack Developer focused on building scalable, user-centric software.
 
 🏗️ Current Stack
+
 Languages: JavaScript, TypeScript, Python, C++
 Frontend: React, Next.js, HTML/CSS
 Backend: Node.js, Express
@@ -9,8 +10,6 @@ Database & ORM PostgreSQL, MongoDB,
 Available for work
 Current Project: Linux Client (Workforce experience)
 Learning: System Design
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rsulakhe&show_icons=true&theme=tokyonight)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
