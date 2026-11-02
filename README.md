@@ -1,15 +1,21 @@
-I’m a Full-Stack Developer focused on building scalable, user-centric software.
+I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
 
-🏗️ Current Stack
+### 🏗️ Current Stack 
+* **Languages:** JavaScript, TypeScript, Python, C++
+* **Frontend:** React, Next.js, HTML/CSS
+* **Backend:** Node.js, Express
+* **Database & ORM** PostgreSQL, MongoDB, Prisma, Drizzle, Upstash-Redis
 
-Languages: JavaScript, TypeScript, Python, C++
-Frontend: React, Next.js, HTML/CSS
-Backend: Node.js, Express
-Database & ORM PostgreSQL, MongoDB, 
-🟢 Current Status
-Available for work
-Current Project: Linux Client (Workforce experience)
-Learning: System Design
+### 🟢 Current Status
+* _**Available for work**_
+* **Current Project:** Pick'em : Realtime Voting System
+* **Learning:** System Design
+
+
+[Connect with Me](https://www.linkedin.com/in/rishikesh-sulakhe-135865157/)  
+
+
+![](https://komarev.com/ghpvc/?username=thegeekyb0y)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
@@ -21,4 +27,4 @@ Learning: System Design
 
 ## 🌐 Connect With Me
 
-[LinkedIn]: https://www.linkedin.com/in/rishikesh-sulakhe-135865157/
+[LinkedIn]: 
